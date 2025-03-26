@@ -1,0 +1,11 @@
+[
+    {
+        "property": "theme.zen-macos-buttons.enable-macos-buttons",
+        "label": "Enable MacOS theme for Exit-Maximize-Reduce buttons",
+        "defaultValue": "false",
+        "disabledOn": [
+            "macos"
+        ],
+        "type": "checkbox"
+    }
+]
